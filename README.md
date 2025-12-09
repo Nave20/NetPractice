@@ -1,4 +1,4 @@
-This project has been created as part of the 42 curriculum by [vpirotti]
+<i>This project has been created as part of the 42 curriculum by</i> <b>vpirotti</b>.
 
  - Description
         This project's purpose is to initiate the student to basic network functions.
@@ -29,5 +29,4 @@ This project has been created as part of the 42 curriculum by [vpirotti]
 
 
 
-
-28
+<b>28</b>
