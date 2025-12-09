@@ -19,7 +19,7 @@
             https://jodies.de/ipcalc?host=135.254.169.45&mask1=30&mask2=
             https://www.calculator.net/ip-subnet-calculator.html?cclass=any&csubnet=27&cip=93.198.14.2&ctype=ipv4&x=Calculate
  - <b>Submission details</b><br>
-        The repository must contain ten files at root named as such : level*number*.json 
+        The repository must contain ten files at root named as such : level[*number*].json 
 
 
 
