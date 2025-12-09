@@ -2,8 +2,7 @@
 
  - <b>Description</b><br>
         This project's purpose is to initiate the student to basic network functions.
-        It composes of multiples exercises where you have to fill in blanks according to the context of the current 
-        network.
+        It composes of multiple exercises where you have to fill in blanks according to the current network.
  - <b>Instructions</b><br>
         In order to evaluate the student you must verify that every exercice has been done and correctly exported.
         To do such you must either open the index.html file inside the net_pratice folder or download it through the 42
