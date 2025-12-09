@@ -15,8 +15,8 @@
         TCP/IP addressing, subnet mask, default gateway, routers and switches, OSI layers.
         Other key subjects might be involved in the subject feel free to ask the evaluated 
         student about them.
-        The main sources of information for this project were :
-            https://jodies.de/ipcalc?host=135.254.169.45&mask1=30&mask2=
+        The main sources of information for this project were :<br>
+            https://jodies.de/ipcalc?host=135.254.169.45&mask1=30&mask2=<br>
             https://www.calculator.net/ip-subnet-calculator.html?cclass=any&csubnet=27&cip=93.198.14.2&ctype=ipv4&x=Calculate
  - <b>Submission details</b><br>
         The repository must contain ten files at root named as such : level[*number*].json 
